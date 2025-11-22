@@ -130,6 +130,8 @@ Replace the paths with your actual image files (e.g. in `docs/images/`).
 ### 1. System Dashboard
 
 ![Main Dashboard](docs/images/dashboard.png)
+<img width="1918" height="1139" alt="image" src="https://github.com/user-attachments/assets/f9aaa9e1-7e26-43f7-a48f-95c5b73ce453" />
+
 
 ### 2. Housing Complex List
 
