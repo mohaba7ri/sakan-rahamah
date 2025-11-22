@@ -187,9 +187,7 @@ You can extend this stack with:
 
 ![Staff Home – Family List](https://github.com/user-attachments/assets/8d985fdb-47c1-4b0d-bc47-d36ad1624538)
 
-> You can add more screenshots for specific flows such as: allocation, visit report, maintenance request, etc.
 
----
 
 ## Installation & Setup
 
