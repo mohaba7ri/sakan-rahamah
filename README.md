@@ -124,30 +124,31 @@ This project aims to:
 
 ## Screenshots & UI Preview
 
-You can place your images here.  
-Replace the paths with your actual image files (e.g. in `docs/images/`).
-
 ### 1. System Dashboard
 
 ![Main Dashboard](docs/images/dashboard.png)
 <img width="1918" height="1139" alt="image" src="https://github.com/user-attachments/assets/f9aaa9e1-7e26-43f7-a48f-95c5b73ce453" />
 
 
-### 2. Housing Complex List
+### 2. Housing Screen
 
-![Complexes List](docs/images/complexes-list.png)
+<img width="1900" height="812" alt="image" src="https://github.com/user-attachments/assets/489361f6-41f1-4e31-a317-3cabeeba61ff" />
+
 
 ### 3. Family Profile (Mother & Orphans)
 
-![Family Profile](docs/images/family-profile.png)
+<img width="1919" height="1125" alt="Screenshot 2025-11-22 165502" src="https://github.com/user-attachments/assets/ffa9cefb-ec06-4fbb-b72c-1eb14ccf7336" />
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/840b6994-8c4c-4b48-bc5f-22ff1158994e" />
 
-### 4. Unit Assignment Screen
 
-![Unit Assignment](docs/images/unit-assignment.png)
 
-### 5. Mobile App – Staff Home
+### 4. Mobile App – Staff Home
 
-![Mobile Home](docs/images/mobile-home.png)
+<img width="559" height="1102" alt="image" src="https://github.com/user-attachments/assets/43deed59-a09b-4e9d-a837-14485c9870e1" />
+
+<img width="562" height="1112" alt="image" src="https://github.com/user-attachments/assets/8d985fdb-47c1-4b0d-bc47-d36ad1624538" />
+
+
 
 > Tip: You can add more subsections for each important flow and upload images accordingly.
 
@@ -168,8 +169,3 @@ Replace the paths with your actual image files (e.g. in `docs/images/`).
   - Flutter
   - Android Studio 
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-org/rahmah-housing-system.git
-cd rahmah-housing-system
